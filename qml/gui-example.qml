@@ -9,9 +9,9 @@ ApplicationWindow {
     allowedOrientations: Orientation.All
 //    initialPage: Component { Page { } }
 //    initialPage: Component { FlickablePage { } }
-    initialPage: Component { StackPage { } }
+//    initialPage: Component { StackPage { } }
 //    initialPage: Component { ListPage { } }
-//    initialPage: Component { MainPage { } }
+    initialPage: Component { MainPage { } }
     cover: Component { CoverBackground { } }
 //    cover: CoverPage { }
 

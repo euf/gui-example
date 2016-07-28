@@ -39,16 +39,16 @@ Page {
                 page: "ListPage"
                 category: "Views"
             }
-//            ListElement {
-//                name: "SilicaGridView"
-//                page: "GridPage"
-//                category: "Views"
-//            }
-//            ListElement {
-//                name: "SlideshowView"
-//                page: "SlideshowPage"
-//                category: "Views"
-//            }
+            ListElement {
+                name: "SilicaGridView"
+                page: "GridPage"
+                category: "Views"
+            }
+            ListElement {
+                name: "SlideshowView"
+                page: "SlideshowPage"
+                category: "Views"
+            }
 //            ListElement {
 //                name: "SilicaWebView"
 //                page: "WebViewPage"
